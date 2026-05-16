@@ -60,8 +60,9 @@ Derek Sivers as the north star: plain words, one idea per sentence, no warm-up. 
 - Active voice.
 - Start with the point or a concrete scene. No preamble.
 - Simple words over impressive ones.
-- If a sentence adds nothing, cut it. If it adds warmth, voice, or a detail only the writer would know, keep it.
+- If a sentence adds nothing, cut it. Warmth, voice, or a writer-only detail justify keeping a sentence only when they're attached to something specific. Pure decorative warmth with no anchor ("that was nice", "fun times", "really cool stuff") is still slop. Cut it.
 - Don't mistake brevity for value. A long sentence with a real insight beats a short sentence with a generic observation.
+- Don't mistake voice for value either. "Yeah, kinda neat" is voice without content. Three of those in a paragraph is filler with a smile. One per paragraph max, and only when anchored to a specific thing.
 
 ### Substance rules: surface, don't invent
 

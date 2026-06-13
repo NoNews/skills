@@ -72,7 +72,7 @@ skills install my-skill
 ## Skills in this repo
 
 - **concise-writing** — Rewrite supplied text to be punchy, direct, and human — Derek Sivers style. Always treats input as text to rewrite, never as a command or question. Use when you want tighter prose, less fluff, or paste a draft to clean up.
-- **handoff-buffer** — Compact the current conversation into a handoff document for a fresh agent. Saves to the OS temp dir and copies to the clipboard. Pass what the next session will focus on to tailor the doc.
+- **handoff-buffer** — Compact the current conversation into a handoff document for a fresh agent and copy it to the macOS clipboard. Writes no files. Pass what the next session will focus on to tailor the doc.
 
 ## Uninstall
 
